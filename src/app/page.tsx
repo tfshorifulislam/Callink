@@ -4,7 +4,7 @@ const HomePage = () => {
   return (
     <div className="text-primary-text">
       <h1>this is home page !!</h1>
-      <ModeToggle />
+      {/* <ModeToggle /> */}
     </div>
   );
 };
